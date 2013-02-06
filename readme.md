@@ -1,4 +1,4 @@
-![My image](https://github.com/Paulware/ArduinoStick/raw/master/images/sideView.jpg)
+![My image](https://github.com/Paulware/ArduinoStick/raw/master/images/ArduinoStick.jpg)
 
 This [Arduino clone](https://www.tindie.com/shops/Paulware/arduino-on-a-stick/) gives you all the functionality 
 of an arduino in a significantly smaller form.
