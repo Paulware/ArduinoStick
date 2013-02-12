@@ -3,6 +3,8 @@
 This [Arduino clone](https://www.tindie.com/shops/Paulware/arduino-on-a-stick/) gives you all the functionality 
 of an arduino in a significantly smaller form.
 
+To program it in the Arduino IDE, select Tools->Board->Arduino Duemilanove w/ATmega 328
+
 It has a built-in usb chip based on the cp2102.   The driver for this is located on the Silicon Labs [website](http://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
 
 To install the driver, unzip the CP210x_VCP_Windows.zip file and run the CP210xVCPInstaller_x64.exe from windows explorer.
